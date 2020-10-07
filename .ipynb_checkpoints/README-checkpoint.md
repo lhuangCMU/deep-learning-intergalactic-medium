@@ -1,6 +1,9 @@
 # deep-learning-intergalactic-medium
 
-This code was used for the research paper, Deep Forest: Neural Network reconstruction of the Lyman-$\alpha$ forest by Lawrence Huang, Rupert Croft, and Hitesh Arora. The goal of this project is to train a neural network to predict optical depth from noisy flux data. The $\tau$ data is stored in newz3taured.dat
+This code was used for the research paper, Deep Forest: Neural Network reconstruction of the Lyman-$\alpha$ forest by Lawrence Huang, Rupert Croft, and Hitesh Arora. The goal of this project is to train a neural network to predict optical depth from noisy flux data. 
+
+## Data
+The $\tau$ data is stored in a file named newz3taured.dat. Due to the file's size, we were unable to upload it to Github. [The file is instead available to download through Google Drive. To reach the link, click on this sentence.](https://drive.google.com/file/d/1ozfAwAaDaVaTVMr0NrGLD5aVQdOYqPG4/view?usp=sharing)
 
 ## Installation Guide
 
